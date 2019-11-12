@@ -1,5 +1,4 @@
 let mtg_url_api = "https://api.magicthegathering.io/v1/cards";
-// var mtg_url_api = "https://api.nasa.gov/neo/rest/v1/feed?start_date=2019-10-31&end_date=2019-11-07&api_key=DEMO_KEY";
 
 function actBtnSearchCardId(){
     let card;
